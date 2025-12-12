@@ -1,3 +1,23 @@
-.venv/*
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtuelle Umgebungen
+venv/
+.env/
+.venv/
+.ipynb_checkpoints
+*/.ipynb_checkpoints
 
 
