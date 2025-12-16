@@ -21,11 +21,4 @@ def singularorplural( liste ):
 
             print(output + "1. Person Singular")
 
-
-
 singularorplural(liste_verben)
-
-
-
-
-

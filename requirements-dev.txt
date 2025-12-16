@@ -1,0 +1,2 @@
+# requirements-dev.txt
+nbstripout>=0.7
